@@ -1,0 +1,246 @@
+#header{
+    height: 160px;
+    width: 2071px;
+    position: absolute;
+    background-color: rgb(143, 92, 31);
+    top: 0;
+    left: 0;
+}
+
+.LienVeille_technologique{
+    color: white;
+    font-size: 50px;
+    font-family: Edo sz;
+    position: relative;
+    left: 600px;
+    top: 45px;
+}
+
+.LienParcours{
+    color: white;
+    font-size: 50px;
+    font-family: Edo sz;
+    position: relative;
+    left: 350px;
+    top: 45px;
+}
+
+.LienProjet{
+    color: white;
+    font-size: 50px;
+    font-family: Edo sz;
+    position: relative;
+    left: 200px;
+    top: 45px;
+}
+
+.LienContact{
+    color: white;
+    font-size: 50px;
+    font-family: Edo sz;
+    position: relative;
+    left: 650px;
+    top: 45px;
+}
+
+
+#Logo{
+    position: absolute;
+    top: -160px;
+    left: 700px;
+    width: 500px;
+    height: 500px;
+}
+
+Video{
+    position: fixed;
+    top: 0;
+    left: 0;
+    min-width: 100%;
+    min-height: 100%;
+    width: auto;
+    height: auto;
+    z-index: -1;
+}
+
+#Bigpage{
+    background-color: rgb(36, 36, 36);
+    width: 1300px;
+    height: 2000px;
+    top: 152px;
+    position: relative;
+    margin:auto;
+}
+
+#Title_accueil{
+    position: relative;
+    width: 700px;
+    height: 90px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    text-align: center;
+    line-height: 80px;
+    font-family: Edo sz;
+    font-size: 40px;
+    color: black;
+    padding-left: 10px;
+    left: 310px;
+    top: 10px;
+}
+
+.blabla_accueil1{
+    width: 1000px;
+    height: 200px;
+    background-color: rgb(36, 36, 36) ;
+    border: solid 3px black ;
+    text-align: center;
+    position: relative;
+    top: 30px;
+    left: 150px;
+    color: white;
+    font-size: 30px;
+}
+
+#Liste_contact{
+    position: relative;
+    width: 700px;
+    height: 850px;
+    background-color: rgb(175, 175, 175) !important;
+    border-radius: 10px;
+    border: solid black 4px;
+    left: 320px;
+    top: 100px;
+}
+
+#Linked{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 40px;
+    top: 100px;
+}
+
+#Google{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 150px;
+    top: 250px;
+
+}
+
+#Insta{
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 100px;
+    top: 400px;
+}
+
+#Phone{    
+    position: relative;
+    width: 50px;
+    height: 50px;
+    left: 0px;
+    top: 550px;
+}
+
+
+
+#Contact_title{
+    position: relative;
+    font-family: Edo SZ;
+    color: rgb(0, 0, 0);
+    font-size: 80px;
+    left: 200px;
+    top: 30px;
+}
+
+#Email{
+    position: absolute;
+    font-size: 25px;
+    top: 350px;
+    left: 230px;
+}
+
+#LinkedIn{
+    position: absolute;
+    font-size: 25px;
+    top: 200px;
+    left: 230px;
+}
+
+#Instagrame{
+    position: absolute;
+    font-size: 25px;
+    top:500px;
+    left: 230px;
+}
+
+#Numero{
+    position: absolute;
+    font-size: 25px;
+    top: 655px;
+    left: 230px;
+}
+
+#Bande_Copyrigth{
+    position: absolute;
+    width: 1890px;
+    left: -10px;
+    height: 120px;
+    background-color: rgb(21, 21, 21);
+    top: 2050px;
+    text-align: center;
+}
+
+#Copyright{
+    text-align: center;
+    font-size: 15px;
+    font-family: Edo SZ;
+    color: white;
+    position: relative;
+    top: 40px;
+}
+
+#Titre{
+    font-size: 50px;
+    font-family: Edo SZ;
+    color: white;
+    position: relative;
+    top: 30px;
+    left: 530px;
+}
+
+#Bulle1{
+    font-size: 20px;
+    color: white;
+}
+
+#caseblabla1{
+    border: solid white 3px;
+    padding: 25px;
+    width: 40%;
+    height: 8%;
+    position: absolute;
+    top: 170px;
+    left: 50px;
+}
+
+#photo{
+    position: absolute;
+    top: 145px;
+    left: 800px;
+    width: 259px;
+    height: 290px;
+}
+
+#caseblabla2{
+    border: solid white 3px;
+    padding: 25px;
+    width: 40%;
+    height: 8%;
+    position: absolute;
+    top: 370px;
+    left: 280px;
+}
